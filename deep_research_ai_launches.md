@@ -1,4 +1,4 @@
-I would like to keep up with Generative AI news. It's hard to do though because there are so many launches nowadays. Please help me research all of the launches that came out in the last week. For reference, today is 17 March 2025. Focus on the aspects I'm most interested in:
+I would like to keep up with Generative AI news. It's hard to do though because there are so many launches nowadays. Please help me research all of the launches that came out in the last week. For reference, today is {DATE}. Focus on the aspects I'm most interested in:
 
 * Frontier models - any frontier model like Gemini, Llama, etc that have come out this week and have either beat the existing best frontier models, or benchmark around the best in the world right now and are very small, like Gemma3 27B did recently. Include what things reviews are pointing out of qualities that the new model is better than the current best frontier models.
 * AI coding tools - any new AI coding tools. Please explain what they do, how they increase productivity in coding projects.
